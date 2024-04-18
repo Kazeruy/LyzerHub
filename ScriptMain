@@ -1,0 +1,12 @@
+if game.PlaceId == 15367026228 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/AnimeSoulsx/main/Script"))()
+elseif game.PlaceId == 16914149804 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/SwordX/main/Script"))()
+elseif game.PlaceId == 8501406566 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/Legacy/main/Script"))()
+elseif game.PlaceId == 16733754732 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/Island/main/Script"))()
+else
+
+game.Players.LocalPlayer:Kick("Game Not Supported :)")
+end
