@@ -6,6 +6,8 @@ elseif game.PlaceId == 8501406566 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/Legacy/main/Script"))()
 elseif game.PlaceId == 16733754732 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/Island/main/Script"))()
+elseif game.PlaceId == 14752086859 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/Max/main/Script"))()
 else
 
 game.Players.LocalPlayer:Kick("Game Not Supported :)")
