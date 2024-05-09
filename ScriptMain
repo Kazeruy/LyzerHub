@@ -12,5 +12,6 @@ elseif game.PlaceId == 6897167394 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/DemonPiece/main/Script"))()
 else
 
-game.Players.LocalPlayer:Kick("Game Not Supported :)")
+toclipboard("https://discord.gg/zmQAFbKXWU")
+game.Players.LocalPlayer:Kick("Game Not Supported, Discord copied to clipboard")
 end
