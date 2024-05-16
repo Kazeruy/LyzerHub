@@ -10,6 +10,8 @@ elseif game.PlaceId == 14752086859 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/Max/main/Script"))()
 elseif game.PlaceId == 6897167394 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/DemonPiece/main/Script"))()
+elseif game.PlaceId == 15744137588 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/Slayer/main/Script"))()
 else
 
 toclipboard("https://discord.gg/zmQAFbKXWU")
